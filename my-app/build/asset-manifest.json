@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Safepro-assesment.github.io/static/css/main.8a22b7cc.css",
+    "main.js": "/Safepro-assesment.github.io/static/js/main.97e384e0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Safepro-assesment.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Safepro-assesment.github.io/index.html",
+    "main.8a22b7cc.css.map": "/Safepro-assesment.github.io/static/css/main.8a22b7cc.css.map",
+    "main.97e384e0.js.map": "/Safepro-assesment.github.io/static/js/main.97e384e0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Safepro-assesment.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a22b7cc.css",
+    "static/js/main.97e384e0.js"
+  ]
+}
